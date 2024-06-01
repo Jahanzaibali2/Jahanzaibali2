@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of Computer Science, Currently Studying in Bahria University 
+I am a student of Computer Science, Currently Studying in Bahria University <br>
 ⭕️ Currently working On Scripting languages and Web Apps<br>⭕️  Learning Online Databases And Python Programming<br>⭕️ Strong grip on Java, html & C++
 
 
