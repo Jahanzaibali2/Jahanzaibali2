@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm a 6th-semester Computer Science Student with a passion for Desktop and Web Apps. I love building intuitive, efficient applications and exploring new technologies.<br>🚀 I'm currently developing a task management app focused on dynamic task handling and component-based architecture in React & Actively pursuing Cloud Data Engineering training at Saylani Welfare to deepen my knowledge of cloud technologies and data systems <br>📫 Reach out on LinkedIn or email me at Jahanzaibalikhawaja26@gmail.com. Always up for a chat about tech or collaboration!
+👋 Hi! I'm a Final-Year Computer Science Student with a passion for Data Science, AI and  Application Development. & love building intuitive, efficient applications and exploring new technologies.<br>🚀 I'm currently Employed as a Full-Stack Developer @ KNYSYS LLC & Actively pursuing Cloud Data Engineering at Saylani Welfare to deepen my knowledge of cloud technologies and data systems <br>📫 Reach out on LinkedIn or email me at Jahanzaibalikhawaja26@gmail.com. Always up for a chat about tech or collaboration!
 
 
 ## 🌐 Socials:
