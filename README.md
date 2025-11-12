@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-👋 Hi! I'm a Final-Year Computer Science Student with a passion for Data Science, AI and Application Development. & love building intuitive, efficient applications and exploring new technologies.<br>🚀 I'm currently Employed as a Jr. Software Developer @ KNYSYS LLC & Actively pursuing Cloud Data Engineering at Saylani Welfare to deepen my knowledge of cloud technologies and data systems<br>📫 Reach out on LinkedIn or email me at Jahanzaibalikhawaja26@gmail.com. Always up for a chat about tech or collaboration!
+👋 Hi, I'm **Jahanzaib Ali** — a Software Engineer & Project Manager passionate about building scalable systems and AI-driven solutions. <br>
+I work at the intersection of software engineering and AI research — managing agile projects, designing efficient architectures, and delivering full-stack solutions that align with real business impact. <br>
+Currently exploring: Multi-agent systems, automation workflows, and cloud data engineering.<br>📫 Reach out on LinkedIn or email me at Jahanzaibalikhawaja26@gmail.com. Always up for a chat about tech or collaboration!
 
 
 ## 🌐 Socials:
