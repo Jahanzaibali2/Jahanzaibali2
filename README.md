@@ -19,6 +19,10 @@ Currently exploring: Multi-agent systems, automation workflows, and cloud data e
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h2 align="left">📈 Performance Graph:</h2>
+
+[![Jahanzaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanzaibali2&theme=xcode&line=fe9a00&bg_color=151515&point=faffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Jahanzaibali2&icon=10&color=8)](https://visitcount.itsvg.in)
 
