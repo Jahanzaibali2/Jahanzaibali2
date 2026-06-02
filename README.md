@@ -9,7 +9,7 @@
 <p>
   <a href="https://g.dev/jahanzaibali"><img src="https://img.shields.io/badge/g.dev/jahanzaibali-4285F4?style=flat&amp;logo=google&amp;logoColor=white" height="22" alt="Google Dev" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jahanzaibali2"><img src="https://img.shields.io/badge/jahanzaibali2-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jahanzaibali2"><img src="https://img.shields.io/badge/jahanzaibali2-0077B5?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:jahanzaibalikhawaja26@gmail.com"><img src="https://img.shields.io/badge/jahanzaibalikhawaja26-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" height="22" alt="Email" /></a>
   &nbsp;&nbsp;
