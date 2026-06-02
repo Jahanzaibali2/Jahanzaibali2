@@ -7,15 +7,17 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=5&amp;section=header" width="100%" alt="Neon divider" />
 
 <p align="center">
-  <a href="mailto:jahanzaibalikhawaja26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" height="22" alt="Gmail" /></a>
-  &nbsp;&nbsp;
+ 
   <a href="https://www.instagram.com/jahanzaib_ali2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyLjE2M2MzLjIwNCAwIDMuNTg0LjAxMiA0Ljg1LjA3IDMuMjUyLjE0OCA0Ljc3MSAxLjY5MSA0LjkxOSA0LjkxOS4wNTggMS4yNjUuMDY5IDEuNjQ1LjA2OSA0Ljg0OSAwIDMuMjA1LS4wMTIgMy41ODQtLjA2OSA0Ljg0OS0uMTQ5IDMuMjI1LTEuNjY0IDQuNzcxLTQuOTE5IDQuOTE5LTEuMjY2LjA1OC0xLjY0NC4wNy00Ljg1LjA3LTMuMjA0IDAtMy41ODQtLjAxMi00Ljg0OS0uMDctMy4yNi0uMTQ5LTQuNzcxLTEuNjk5LTQuOTE5LTQuOTItLjA1OC0xLjI2NS0uMDctMS42NDQtLjA3LTQuODQ5IDAtMy4yMDQuMDEzLTMuNTgzLjA3LTQuODQ5LjE0OS0zLjIyNyAxLjY2NC00Ljc3MSA0LjkxOS00LjkxOSAxLjI2Ni0uMDU3IDEuNjQ1LS4wNjkgNC44NDktLjA2OXptMC0yLjE2M2MtMy4yNTkgMC0zLjY2Ny4wMTQtNC45NDcuMDcyLTQuMzU4LjItNi43OCAyLjYxOC02Ljk4IDYuOTgtLjA1OSAxLjI4MS0uMDczIDEuNjg5LS4wNzMgNC45NDggMCAzLjI1OS4wMTQgMy42NjguMDcyIDQuOTQ4LjIgNC4zNTggMi42MTggNi43OCA2Ljk4IDYuOTggMS4yODEuMDU4IDEuNjg5LjA3MiA0Ljk0OC4wNzIgMy4yNTkgMCAzLjY2OC0uMDE0IDQuOTQ4LS4wNzIgNC4zNTQtLjIgNi43ODItMi42MTggNi45NzktNi45OC4wNTktMS4yOC4wNzMtMS42ODkuMDczLTQuOTQ4IDAtMy4yNTktLjAxNC0zLjY2Ny0uMDcyLTQuOTQ3LS4xOTYtNC4zNTQtMi42MTctNi43OC02Ljk3OS02Ljk4LTEuMjgxLS4wNTktMS42OS0uMDczLTQuOTQ5LS4wNzN6bTAgNS44MzhjLTMuNDAzIDAtNi4xNjIgMi43NTktNi4xNjIgNi4xNjJzMi43NTkgNi4xNjMgNi4xNjIgNi4xNjMgNi4xNjItMi43NTkgNi4xNjItNi4xNjNjMC0zLjQwMy0yLjc1OS02LjE2Mi02LjE2Mi02LjE2MnptMCAxMC4xNjJjLTIuMjA5IDAtNC0xLjc5LTQtNCAwLTIuMjA5IDEuNzkxLTQgNC00czQgMS43OTEgNCA0YzAgMi4yMS0xLjc5MSA0LTQgNHptNi40MDYtMTEuODQ1Yy0uNzk2IDAtMS40NDEuNjQ1LTEuNDQxIDEuNDRzLjY0NSAxLjQ0IDEuNDQxIDEuNDRjLjc5NSAwIDEuNDM5LS42NDUgMS40MzktMS40NHMtLjY0NC0xLjQ0LTEuNDM5LTEuNDR6Ii8+PC9zdmc+&amp;logoColor=white" height="22" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jahanzaibali2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Jahanzaibali2"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" height="22" alt="GitHub" /></a>
   &nbsp;&nbsp;
   <a href="https://g.dev/jahanzaibali"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=flat&amp;logo=google&amp;logoColor=white" height="22" alt="Google Dev" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jahanzaibali2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+   <a href="mailto:jahanzaibalikhawaja26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" height="22" alt="Gmail" /></a>
+  
 </p>
 
 </div>
@@ -89,7 +91,7 @@ Grass:    ██░░░░░░░░  20%
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
 
-Hey there, I'm **Jahanzaib Ali** — a hybrid **Technical Project Manager** and **Software Engineer** specializing in bridging the gap between deep technical execution and high-level product delivery. I drive initiatives across **Enterprise Linux (RHEL)**, **AI research / multi-agent architectures**, **ERP systems (Odoo, ERPNext)**, and **full-stack cloud engineering**.
+Hey there, I'm **Jahanzaib Ali** — a hybrid **Technical Project Manager** and **Software Engineer** specializing in bridging the gap between deep technical execution and high-level product delivery. I drive initiatives across **Cloud environments/Linux**, **AI research / multi-agent architectures**, **ERP systems**, and **full-stack development**.
 
 Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion, or containerizing microservices, I make sure the product ships—securely, efficiently, and on schedule. 🚀
 
@@ -127,7 +129,7 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 ### 📊 Project Management & Teamwork
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" title="Jira"><img width="48" height="48" alt="Jira" src="https://cdn.simpleicons.org/jira/white" style="padding:10px;border-radius:12px;background-color:#0052CC;margin:4px;" /></a>
-  <a href="https://www.microsoft.com/microsoft-teams" title="Teams"><img width="48" height="48" alt="Teams" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/microsoftteams.svg" style="padding:10px;border-radius:12px;background-color:#6264A7;margin:4px;filter:brightness(0) invert(1);" /></a>
+  <a href="https://www.microsoft.com/microsoft-teams" title="Teams"><img width="48" height="48" alt="Teams" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/microsoftteams.svg" style="padding:10px;border-radius:12px;background-color:#000000;margin:4px;filter:brightness(0) invert(1);" /></a>
   <a href="https://www.odoo.com" title="Odoo"><img width="48" height="48" alt="Odoo" src="https://cdn.simpleicons.org/odoo/white" style="padding:10px;border-radius:12px;background-color:#875A7B;margin:4px;" /></a>
   <a href="https://www.notion.so" title="Notion"><img width="48" height="48" alt="Notion" src="https://cdn.simpleicons.org/notion/white" style="padding:10px;border-radius:12px;background-color:#000000;margin:4px;" /></a>
   <a href="https://www.figma.com" title="Figma"><img width="48" height="48" alt="Figma" src="https://cdn.simpleicons.org/figma/white" style="padding:10px;border-radius:12px;background-color:#F24E1E;margin:4px;" /></a>
@@ -160,6 +162,7 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 <br/><br/>
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Jahanzaibali2&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
+
 
 </div>
 
@@ -242,6 +245,11 @@ pie title Current Power Allocation
 
 <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=90&amp;section=header&amp;text=CRITICAL%20BOSS%20FIGHT&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=blinking" width="100%" alt="Animated boss fight divider" />
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## 🎮 Mini Game: PM / Dev Boss Fight
 
 <details>
@@ -303,15 +311,19 @@ Move sequence: `Kill process → Set max_iterations = 5 → Inject system routin
 
 ## 🧿 Developer Mood Board
 
-![Coffee](https://img.shields.io/badge/Coffee-fuel-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-required-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Tickets](https://img.shields.io/badge/Jira_Tickets-managed-blue?style=for-the-badge)
 ![Deploy](https://img.shields.io/badge/Deployments-automated-green?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Enterprise_OS-hardened-red?style=for-the-badge)
 ![Meetings](https://img.shields.io/badge/Meetings-optimized-8a2be2?style=for-the-badge)
+![Bugs](https://img.shields.io/badge/Bugs-temporary-red?style=for-the-badge)
+![Logs](https://img.shields.io/badge/Logs-don't%20lie-orange?style=for-the-badge)
+![Ship](https://img.shields.io/badge/Shipping-sinking-blue?style=for-the-badge&logo=rocket&logoColor=white)
+![Sleep](https://img.shields.io/badge/Sleep-optional-111111?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=150&amp;section=footer&amp;text=I%20optimize%20workflows%2C%20ship%20clean%20code%2C%20and%20deliver%20projects.&amp;fontSize=24&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=70" width="100%" alt="Animated footer" />
 
-![Made With Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
+![Made out of boredom](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
 ![Powered By Agile](https://img.shields.io/badge/Powered%20by-Agile%20Scrum-ff0055?style=for-the-badge)
 ![Respawn](https://img.shields.io/badge/Respawn%20Point-GitHub-181717?style=for-the-badge&logo=github)
 
