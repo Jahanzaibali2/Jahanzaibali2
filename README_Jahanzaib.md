@@ -42,7 +42,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=90&amp;section=header&amp;text=PLAYER%20STATUS&amp;fontSize=28&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Animated section divider" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=90&section=header&text=PLAYER%20STATUS&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated section divider" />
 
 ## 🎮 Character Sheet
 
@@ -93,13 +93,13 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 
 <br clear="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=5&amp;section=header" width="100%" alt="Neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff0055&height=5&section=header" width="100%" alt="Neon divider" />
 
 <div align="center">
 
 ## 🧰 Inventory / Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=20&amp;duration=1450&amp;pause=420&amp;color=FF00CC&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=46&amp;lines=Equipping+languages...;Calibrating+agile+workflows...;Deploying+to+secure+clouds...;Resolving+dependencies+without+tears." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1450&pause=420&color=FF00CC&center=true&vCenter=true&width=850&height=46&lines=Equipping+languages...;Calibrating+agile+workflows...;Deploying+to+secure+clouds...;Resolving+dependencies+without+tears.)](https://git.io/typing-svg)
 
 ### 🗡️ Languages
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,html,css" alt="Languages" />
@@ -116,38 +116,26 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 ### 📊 Project Management & Teamwork
 <img src="https://skillicons.dev/icons?i=figma,notion" alt="PM & Collab" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&amp;logo=microsoft-teams&amp;logoColor=white" alt="Teams" />
-<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&amp;logo=odoo&amp;logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" />
+<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 <img src="https://img.shields.io/badge/Agile-Scrum-FF9900?style=for-the-badge" alt="Agile" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:111111,50:7b2ff7,100:00f5ff&amp;height=90&amp;section=header&amp;text=BATTLE%20STATS&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=blinking" width="100%" alt="Animated stats divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=BATTLE%20STATS&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated stats divider" />
 
 <div align="center">
 
-## 📊 GitHub Battle Stats
+## 📊 Developer Battle Record
 
-<img width="900" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" />
-
-<br/><br/>
-
-<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages by repo" />
-<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" />
+<!-- Replace placeholder paths once your github action has populated your files, or link directly to remote metrics -->
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Jahanzaibali2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaibali2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
-<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
-
-<br/><br/>
-
-<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&amp;theme=radical&amp;hide_border=true&amp;card_width=900&amp;background=0D1117" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Jahanzaibali2&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
+<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -228,7 +216,7 @@ pie title Current Power Allocation
 | Answer "What is the update on this ticket?" | ⏱️ Constant Cooldown |
 | Touch grass | ❌ Optional DLC |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=90&amp;section=header&amp;text=CRITICAL%20BOSS%20FIGHT&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=blinking" width="100%" alt="Animated boss fight divider" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=CRITICAL%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated boss fight divider" />
 
 ## 🎮 Mini Game: PM / Dev Boss Fight
 
@@ -297,7 +285,7 @@ Move sequence: `Kill process → Set max_iterations = 5 → Inject system routin
 ![Security](https://img.shields.io/badge/Enterprise_OS-hardened-red?style=for-the-badge)
 ![Meetings](https://img.shields.io/badge/Meetings-optimized-8a2be2?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=150&amp;section=footer&amp;text=I%20optimize%20workflows%2C%20ship%20clean%20code%2C%20and%20deliver%20projects.&amp;fontSize=24&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=70" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff0055&height=150&section=footer&text=I%20optimize%20workflows%2C%20ship%20clean%20code%2C%20and%20deliver%20projects.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Animated footer" />
 
 ![Made With Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
 ![Powered By Agile](https://img.shields.io/badge/Powered%20by-Agile%20Scrum-ff0055?style=for-the-badge)
