@@ -132,9 +132,9 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
   &nbsp;&nbsp;
   <a href="https://www.odoo.com"><img src="https://img.shields.io/badge/Odoo-875A7B?style=flat&amp;logo=odoo&amp;logoColor=white" height="22" alt="Odoo" /></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Agile-FF9900?style=flat" height="22" alt="Agile" />
+  <img src="https://img.shields.io/badge/Agile-FF9900?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA0VjFMOCA1bDQgNFY2YzMuMzEgMCA2IDIuNjkgNiA2IDAgMS4wMS0uMjUgMS45Ny0uNyAyLjhsMS40NiAxLjQ2QTcuOTMgNy45MyAwIDAgMCAyMCAxMmMwLTQuNDItMy41OC04LTgtOHptMCAxNGMtMy4zMSAwLTYtMi42OS02LTYgMC0xLjAxLjI1LTEuOTcuNy0yLjhMNS4yNCA3Ljc0QTcuOTMgNy45MyAwIDAgMCA0IDEyYzAgNC40MiAzLjU4IDggOCA4djNsNC00LTQtNHYzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="Agile" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scrum-FF9900?style=flat" height="22" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Scrum-FF9900?style=flat&amp;logo=scrumalliance&amp;logoColor=white" height="22" alt="Scrum" />
 </p>
 
 </div>
