@@ -126,15 +126,11 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 
 ### 📊 Project Management & Teamwork
 <p align="center">
-  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&amp;logo=jira&amp;logoColor=white" height="22" alt="Jira" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-teams"><img src="https://img.shields.io/badge/Teams-6264A7?style=flat&amp;logo=microsoft-teams&amp;logoColor=white" height="22" alt="Teams" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.odoo.com"><img src="https://img.shields.io/badge/Odoo-875A7B?style=flat&amp;logo=odoo&amp;logoColor=white" height="22" alt="Odoo" /></a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Agile-FF9900?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiA0VjFMOCA1bDQgNFY2YzMuMzEgMCA2IDIuNjkgNiA2IDAgMS4wMS0uMjUgMS45Ny0uNyAyLjhsMS40NiAxLjQ2QTcuOTMgNy45MyAwIDAgMCAyMCAxMmMwLTQuNDItMy41OC04LTgtOHptMCAxNGMtMy4zMSAwLTYtMi42OS02LTYgMC0xLjAxLjI1LTEuOTcuNy0yLjhMNS4yNCA3Ljc0QTcuOTMgNy45MyAwIDAgMCA0IDEyYzAgNC40MiAzLjU4IDggOCA4djNsNC00LTQtNHYzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="Agile" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scrum-FF9900?style=flat&amp;logo=scrumalliance&amp;logoColor=white" height="22" alt="Scrum" />
+  <a href="https://www.atlassian.com/software/jira" title="Jira"><img width="48" height="48" alt="Jira" src="https://cdn.simpleicons.org/jira/white" style="padding:10px;border-radius:12px;background-color:#0052CC;margin:4px;" /></a>
+  <a href="https://www.microsoft.com/microsoft-teams" title="Teams"><img width="48" height="48" alt="Teams" src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/microsoftteams.svg" style="padding:10px;border-radius:12px;background-color:#6264A7;margin:4px;filter:brightness(0) invert(1);" /></a>
+  <a href="https://www.odoo.com" title="Odoo"><img width="48" height="48" alt="Odoo" src="https://cdn.simpleicons.org/odoo/white" style="padding:10px;border-radius:12px;background-color:#875A7B;margin:4px;" /></a>
+  <a href="https://www.notion.so" title="Notion"><img width="48" height="48" alt="Notion" src="https://cdn.simpleicons.org/notion/white" style="padding:10px;border-radius:12px;background-color:#000000;margin:4px;" /></a>
+  <a href="https://www.figma.com" title="Figma"><img width="48" height="48" alt="Figma" src="https://cdn.simpleicons.org/figma/white" style="padding:10px;border-radius:12px;background-color:#F24E1E;margin:4px;" /></a>
 </p>
 
 </div>
@@ -143,15 +139,27 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 
 <div align="center">
 
-## 📊 Developer Battle Record
+## 📊 GitHub Battle Stats
 
-<!-- Replace placeholder paths once your github action has populated your files, or link directly to remote metrics -->
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Jahanzaibali2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaibali2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img width="900" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/0-profile-details.svg?v=5" alt="GitHub profile summary" />
 
 <br/><br/>
 
-<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub Streak" />
+<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/1-repos-per-language.svg?v=5" alt="Top languages by repo" />
+<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/2-most-commit-language.svg?v=5" alt="Top languages by commit" />
+
+<br/><br/>
+
+<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/3-stats.svg?v=5" alt="GitHub stats" />
+<img width="420" src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/main/profile-summary-card-output/radical/4-productive-time.svg?v=5" alt="Productive time" />
+
+<br/><br/>
+
+<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&amp;theme=radical&amp;hide_border=true&amp;card_width=900&amp;background=0D1117" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Jahanzaibali2&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 </div>
 
