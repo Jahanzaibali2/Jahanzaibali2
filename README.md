@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=210&amp;section=header&amp;text=JAHANZAIB%20ALI&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Technical%20Project%20Manager%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20%E2%80%A2%20Cloud%20Data&amp;descAlignY=58&amp;descSize=16" alt="Animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=210&amp;section=header&amp;text=JAHANZAIB%20ALI&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Technical%20Project%20Manager%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Cloud%20Data%20Engineer&amp;descAlignY=58&amp;descSize=16" alt="Animated header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=900&amp;size=23&amp;duration=1800&amp;pause=650&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=52&amp;lines=SYSTEM+BOOT%3A+JAHANZAIB.EXE;TECHNICAL+PROJECT+MANAGER+%E2%80%A2+SOFTWARE+ENGINEER;AI+RESEARCH+%E2%80%A2+CLOUD+DATA+PIPELINES+%E2%80%A2+RHEL;ALIGNING+CODE%2C+CLOUDS%2C+AND+CLIENTS." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=900&amp;size=23&amp;duration=1800&amp;pause=650&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=52&amp;lines=SYSTEM+BOOT%3A+JAHANZAIB.EXE;TECHNICAL+PROJECT+MANAGER+%E2%80%A2+SOFTWARE+ENGINEER;AI+RESEARCH+%E2%80%A2+CLOUD+DATA+PIPELINES+%E2%80%A2+LINUX;ALIGNING+CODE%2C+CLOUDS%2C+AND+CLIENTS." alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=5&amp;section=header" width="100%" alt="Neon divider" />
 
