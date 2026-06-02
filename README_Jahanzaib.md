@@ -11,11 +11,13 @@
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/jahanzaibali2"><img src="https://img.shields.io/badge/jahanzaibali2-0077B5?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&amp;logoColor=white" height="22" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/jahanzaib_ali2"><img src="https://img.shields.io/badge/jahanzaib_ali2-E4405F?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyLjE2M2MzLjIwNCAwIDMuNTg0LjAxMiA0Ljg1LjA3IDMuMjUyLjE0OCA0Ljc3MSAxLjY5MSA0LjkxOSA0LjkxOS4wNTggMS4yNjUuMDY5IDEuNjQ1LjA2OSA0Ljg0OSAwIDMuMjA1LS4wMTIgMy41ODQtLjA2OSA0Ljg0OS0uMTQ5IDMuMjI1LTEuNjY0IDQuNzcxLTQuOTE5IDQuOTE5LTEuMjY2LjA1OC0xLjY0NC4wNy00Ljg1LjA3LTMuMjA0IDAtMy41ODQtLjAxMi00Ljg0OS0uMDctMy4yNi0uMTQ5LTQuNzcxLTEuNjk5LTQuOTE5LTQuOTItLjA1OC0xLjI2NS0uMDctMS42NDQtLjA3LTQuODQ5IDAtMy4yMDQuMDEzLTMuNTgzLjA3LTQuODQ5LjE0OS0zLjIyNyAxLjY2NC00Ljc3MSA0LjkxOS00LjkxOSAxLjI2Ni0uMDU3IDEuNjQ1LS4wNjkgNC44NDktLjA2OXptMC0yLjE2M2MtMy4yNTkgMC0zLjY2Ny4wMTQtNC45NDcuMDcyLTQuMzU4LjItNi43OCAyLjYxOC02Ljk4IDYuOTgtLjA1OSAxLjI4MS0uMDczIDEuNjg5LS4wNzMgNC45NDggMCAzLjI1OS4wMTQgMy42NjguMDcyIDQuOTQ4LjIgNC4zNTggMi42MTggNi43OCA2Ljk4IDYuOTggMS4yODEuMDU4IDEuNjg5LjA3MiA0Ljk0OC4wNzIgMy4yNTkgMCAzLjY2OC0uMDE0IDQuOTQ4LS4wNzIgNC4zNTQtLjIgNi43ODItMi42MTggNi45NzktNi45OC4wNTktMS4yOC4wNzMtMS42ODkuMDczLTQuOTQ4IDAtMy4yNTktLjAxNC0zLjY2Ny0uMDcyLTQuOTQ3LS4xOTYtNC4zNTQtMi42MTctNi43OC02Ljk3OS02Ljk4LTEuMjgxLS4wNTktMS42OS0uMDczLTQuOTQ5LS4wNzN6bTAgNS44MzhjLTMuNDAzIDAtNi4xNjIgMi43NTktNi4xNjIgNi4xNjJzMi43NTkgNi4xNjMgNi4xNjIgNi4xNjMgNi4xNjItMi43NTkgNi4xNjItNi4xNjNjMC0zLjQwMy0yLjc1OS02LjE2Mi02LjE2Mi02LjE2MnptMCAxMC4xNjJjLTIuMjA5IDAtNC0xLjc5LTQtNCAwLTIuMjA5IDEuNzkxLTQgNC00czQgMS43OTEgNCA0YzAgMi4yMS0xLjc5MSA0LTQgNHptNi40MDYtMTEuODQ1Yy0uNzk2IDAtMS40NDEuNjQ1LTEuNDQxIDEuNDRzLjY0NSAxLjQ0IDEuNDQxIDEuNDRjLjc5NSAwIDEuNDM5LS42NDUgMS40MzktMS40NHMtLjY0NC0xLjQ0LTEuNDM5LTEuNDR6Ii8+PC9zdmc+&amp;logoColor=white" height="22" alt="Instagram" /></a>
-  &nbsp;&nbsp;
+  
   <a href="mailto:jahanzaibalikhawaja26@gmail.com"><img src="https://img.shields.io/badge/jahanzaibalikhawaja26-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" height="22" alt="Email" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Jahanzaibali2"><img src="https://img.shields.io/badge/Jahanzaibali2-181717?style=flat&amp;logo=github&amp;logoColor=white" height="22" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/jahanzaib_ali2"><img src="https://img.shields.io/badge/jahanzaib_ali2-E4405F?style=flat&amp;logo=data:image/svg+xml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyLjE2M2MzLjIwNCAwIDMuNTg0LjAxMiA0Ljg1LjA3IDMuMjUyLjE0OCA0Ljc3MSAxLjY5MSA0LjkxOSA0LjkxOS4wNTggMS4yNjUuMDY5IDEuNjQ1LjA2OSA0Ljg0OSAwIDMuMjA1LS4wMTIgMy41ODQtLjA2OSA0Ljg0OS0uMTQ5IDMuMjI1LTEuNjY0IDQuNzcxLTQuOTE5IDQuOTE5LTEuMjY2LjA1OC0xLjY0NC4wNy00Ljg1LjA3LTMuMjA0IDAtMy41ODQtLjAxMi00Ljg0OS0uMDctMy4yNi0uMTQ5LTQuNzcxLTEuNjk5LTQuOTE5LTQuOTItLjA1OC0xLjI2NS0uMDctMS42NDQtLjA3LTQuODQ5IDAtMy4yMDQuMDEzLTMuNTgzLjA3LTQuODQ5LjE0OS0zLjIyNyAxLjY2NC00Ljc3MSA0LjkxOS00LjkxOSAxLjI2Ni0uMDU3IDEuNjQ1LS4wNjkgNC44NDktLjA2OXptMC0yLjE2M2MtMy4yNTkgMC0zLjY2Ny4wMTQtNC45NDcuMDcyLTQuMzU4LjItNi43OCAyLjYxOC02Ljk4IDYuOTgtLjA1OSAxLjI4MS0uMDczIDEuNjg5LS4wNzMgNC45NDggMCAzLjI1OS4wMTQgMy42NjguMDcyIDQuOTQ4LjIgNC4zNTggMi42MTggNi43OCA2Ljk4IDYuOTggMS4yODEuMDU4IDEuNjg5LjA3MiA0Ljk0OC4wNzIgMy4yNTkgMCAzLjY2OC0uMDE0IDQuOTQ4LS4wNzIgNC4zNTQtLjIgNi43ODItMi42MTggNi45NzktNi45OC4wNTktMS4yOC4wNzMtMS42ODkuMDczLTQuOTQ4IDAtMy4yNTktLjAxNC0zLjY2Ny0uMDcyLTQuOTQ3LS4xOTYtNC4zNTQtMi42MTctNi43OC02Ljk3OS02Ljk4LTEuMjgxLS4wNTktMS42OS0uMDczLTQuOTQ5LS4wNzN6bTAgNS44MzhjLTMuNDAzIDAtNi4xNjIgMi43NTktNi4xNjIgNi4xNjJzMi43NTkgNi4xNjMgNi4xNjIgNi4xNjMgNi4xNjItMi43NTkgNi4xNjItNi4xNjNjMC0zLjQwMy0yLjc1OS02LjE2Mi02LjE2Mi02LjE2MnptMCAxMC4xNjJjLTIuMjA5IDAtNC0xLjc5LTQtNCAwLTIuMjA5IDEuNzkxLTQgNC00czQgMS43OTEgNCA0YzAgMi4yMS0xLjc5MSA0LTQgNHptNi40MDYtMTEuODQ1Yy0uNzk2IDAtMS40NDEuNjQ1LTEuNDQxIDEuNDRzLjY0NSAxLjQ0IDEuNDQxIDEuNDRjLjc5NSAwIDEuNDM5LS42NDUgMS40MzktMS40NHMtLjY0NC0xLjQ0LTEuNDM5LTEuNDR6Ii8+PC9zdmc+&amp;logoColor=white" height="22" alt="Instagram" /></a>
+  
 </p>
 
 </div>
@@ -104,25 +106,25 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1450&pause=420&color=FF00CC&center=true&vCenter=true&width=850&height=46&lines=Equipping+languages...;Calibrating+agile+workflows...;Deploying+to+secure+clouds...;Resolving+dependencies+without+tears.)](https://git.io/typing-svg)
 
 ### 🗡️ Languages & Core
-<img src="https://skillicons.dev/icons?i=assemblyscript,c,cpp,cs,java,html,js,md,r,python,powershell,css,ts&amp;perline=13" alt="Languages and core web" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,js,r,python,powershell,css,ts&amp;perline=11" alt="Languages and core web" />
 
 ### ☁️ Cloud, Hosting & Runtime
-<img src="https://skillicons.dev/icons?i=windows,bash,digitalocean,gcp,netlify,azure,aws,vercel,anaconda,dotnet&amp;perline=10" alt="Cloud and hosting" />
+<img src="https://skillicons.dev/icons?i=windows,bash,gcp,netlify,azure,aws,anaconda,dotnet&amp;perline=9" alt="Cloud and hosting" />
 
 ### 🧩 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=wordpress,vite,snowflake,nodejs,npm,react,reactrouter,reacthookform,django,opencv&amp;perline=10" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=wordpress,vite,nodejs,npm,react,django,opencv&amp;perline=7" alt="Frameworks and libraries" />
 
 ### 🏰 Databases, Web Servers & Design
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nginx,mongodb,mysql,redis,postgres,mariadb,dynamodb,canva,figma&amp;perline=11" alt="Databases and design tools" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nginx,mongodb,mysql,redis,postgres,dynamodb,figma&amp;perline=9" alt="Databases and design tools" />
 
 ### 🤖 Data Science, ML & Version Control
-<img src="https://skillicons.dev/icons?i=lightroom,photoshop,pandas,numpy,matplotlib,keras,tensorflow,plotly,git,github,arduino&amp;perline=11" alt="Data science and version control" />
+<img src="https://skillicons.dev/icons?i=photoshop,tensorflow,git,github,arduino&amp;perline=5" alt="Data science and version control" />
 
 ### 🛠️ DevOps, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=cisco,kubernetes,jira,docker,notion,postman,powerbi,terraform,trello,uber,riotgames&amp;perline=11" alt="DevOps and tools" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,notion,postman,terraform&amp;perline=5" alt="DevOps and tools" />
 
 ### 🎮 Game Dev & Engines
-<img src="https://skillicons.dev/icons?i=epicgames,ea,unity,steam&amp;perline=8" alt="Game platforms and engines" />
+<img src="https://skillicons.dev/icons?i=unity&amp;perline=4" alt="Game platforms and engines" />
 
 ### 📊 Project Management & Teamwork
 <br/><br/>

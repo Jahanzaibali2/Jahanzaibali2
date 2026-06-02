@@ -104,25 +104,25 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=20&amp;duration=1450&amp;pause=420&amp;color=FF00CC&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=46&amp;lines=Equipping+languages...;Calibrating+agile+workflows...;Deploying+to+secure+clouds...;Resolving+dependencies+without+tears." alt="Typing SVG" />
 
 ### 🗡️ Languages & Core
-<img src="https://skillicons.dev/icons?i=assemblyscript,c,cpp,cs,java,html,js,md,r,python,powershell,css,ts&amp;perline=13" alt="Languages and core web" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,js,r,python,powershell,css,ts&amp;perline=11" alt="Languages and core web" />
 
 ### ☁️ Cloud, Hosting & Runtime
-<img src="https://skillicons.dev/icons?i=windows,bash,digitalocean,gcp,netlify,azure,aws,vercel,anaconda,dotnet&amp;perline=10" alt="Cloud and hosting" />
+<img src="https://skillicons.dev/icons?i=windows,bash,gcp,netlify,azure,aws,anaconda,dotnet&amp;perline=9" alt="Cloud and hosting" />
 
 ### 🧩 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=wordpress,vite,snowflake,nodejs,npm,react,reactrouter,reacthookform,django,opencv&amp;perline=10" alt="Frameworks and libraries" />
+<img src="https://skillicons.dev/icons?i=wordpress,vite,nodejs,npm,react,django,opencv&amp;perline=7" alt="Frameworks and libraries" />
 
 ### 🏰 Databases, Web Servers & Design
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nginx,mongodb,mysql,redis,postgres,mariadb,dynamodb,canva,figma&amp;perline=11" alt="Databases and design tools" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nginx,mongodb,mysql,redis,postgres,dynamodb,figma&amp;perline=9" alt="Databases and design tools" />
 
 ### 🤖 Data Science, ML & Version Control
-<img src="https://skillicons.dev/icons?i=lightroom,photoshop,pandas,numpy,matplotlib,keras,tensorflow,plotly,git,github,arduino&amp;perline=11" alt="Data science and version control" />
+<img src="https://skillicons.dev/icons?i=photoshop,tensorflow,git,github,arduino&amp;perline=5" alt="Data science and version control" />
 
 ### 🛠️ DevOps, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=cisco,kubernetes,jira,docker,notion,postman,powerbi,terraform,trello,uber,riotgames&amp;perline=11" alt="DevOps and tools" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,notion,postman,terraform&amp;perline=5" alt="DevOps and tools" />
 
 ### 🎮 Game Dev & Engines
-<img src="https://skillicons.dev/icons?i=epicgames,ea,unity,steam&amp;perline=8" alt="Game platforms and engines" />
+<img src="https://skillicons.dev/icons?i=unity&amp;perline=4" alt="Game platforms and engines" />
 
 ### 📊 Project Management & Teamwork
 <br/><br/>
