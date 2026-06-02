@@ -1,31 +1,72 @@
+<div align="center">
 
-# 💫 About Me:
-👋 Hi, I'm **Jahanzaib Ali** — a Software Engineer & Project Manager passionate about building scalable systems and AI-driven solutions. <br>
-I work at the intersection of software engineering and AI research — managing agile projects, designing efficient architectures, and delivering full-stack solutions that align with real business impact. <br>
-Currently exploring: Multi-agent systems, automation workflows, and cloud data engineering.<br>📫 Reach out on LinkedIn or email me at Jahanzaibalikhawaja26@gmail.com. Always up for a chat about tech or collaboration!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=JAHANZAIB%20ALI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20Google%20Dev%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=16" alt="Animated header" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+JAHANZAIB.EXE;SOFTWARE+ENGINEER+%E2%80%A2+PROJECT+MANAGER;GOOGLE+DEV+PROFILE+ACTIVE;IMPORT+ANTIGRAVITY+%E2%80%A2+ELEVATING+SYSTEMS.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahanzaib.ali.jk5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jahanzaib_ali2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanzaib-ali-714960276/) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" alt="Neon divider" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jahanzaibali2&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Jahanzaibali2?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d9ff)
+![Stars](https://img.shields.io/github/stars/Jahanzaibali2?style=for-the-badge&logo=github&label=STARS&color=ffcc00)
+![Build](https://img.shields.io/badge/BUILD-PASSING-00ff88?style=for-the-badge)
+![Mode](https://img.shields.io/badge/MODE-ANTIGRAVITY-ff69b4?style=for-the-badge)
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jahanzaibali2&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jahanzaibali2&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaibali2&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<h2 align="left">📈 Performance Graph:</h2>
-
-[![Jahanzaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanzaibali2&theme=xcode&line=fe9a00&bg_color=151515&point=faffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jahanzaibali2&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Snake Game Repo View
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake-dark.svg?v=5"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg?v=5"
+  />
+  <img
+    width="900"
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg?v=5"
+  />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=90&section=header&text=PLAYER%20PROFILE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated section divider" />
+
+## 🎮 Player Card
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚔️ Identity Loadout
+
+| Attribute | Value |
+|---|---|
+| 🧑‍💻 **Player** | Jahanzaib Ali |
+| 🏷️ **Class** | Software Engineer & Project Manager |
+| 🧙 **Subclass** | Google Dev / Antigravity Master |
+| ⚔️ **Weapons** | Python, Next.js, Node.js, Docker |
+| 🛡️ **Armor** | Google Cloud, Kubernetes, Agile Workflows |
+| 🧟 **Enemies** | Gravity, Scope Creep, Unscalable Architecture |
+
+</td>
+<td width="50%">
+
+### 🔥 Live Status
+
+```text
+JAHANZAIB.EXE initialized
+HP:            ██████████ 100%
+Full Stack:    █████████░  90%
+Project Mgmt:  █████████░  90%
+Google Dev:    █████████░  90%
+Antigravity:   ██████████ 100% (Floating)
+Sleep:         ██░░░░░░░░  20%
