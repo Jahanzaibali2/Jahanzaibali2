@@ -101,25 +101,33 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1450&pause=420&color=FF00CC&center=true&vCenter=true&width=850&height=46&lines=Equipping+languages...;Calibrating+agile+workflows...;Deploying+to+secure+clouds...;Resolving+dependencies+without+tears.)](https://git.io/typing-svg)
 
-### 🗡️ Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,html,css" alt="Languages" />
+### 🗡️ Languages & Core
+<img src="https://skillicons.dev/icons?i=assemblyscript,c,cpp,cs,java,html,js,md,r,python,powershell,css,ts&amp;perline=13" alt="Languages and core web" />
+
+### ☁️ Cloud, Hosting & Runtime
+<img src="https://skillicons.dev/icons?i=windows,bash,digitalocean,gcp,netlify,azure,aws,vercel,anaconda,dotnet&amp;perline=10" alt="Cloud and hosting" />
 
 ### 🧩 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,dotnet" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=wordpress,vite,snowflake,nodejs,npm,react,reactrouter,reacthookform,django,opencv&amp;perline=10" alt="Frameworks and libraries" />
 
-### ☁️ Cloud Platforms
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify" alt="Clouds" />
+### 🏰 Databases, Web Servers & Design
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nginx,mongodb,mysql,redis,postgres,mariadb,dynamodb,canva,figma&amp;perline=11" alt="Databases and design tools" />
 
-### 🏰 Databases, OS & Devops
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,linux,git,github,docker" alt="DBs, OS & DevOps" />
+### 🤖 Data Science, ML & Version Control
+<img src="https://skillicons.dev/icons?i=lightroom,photoshop,pandas,numpy,matplotlib,keras,tensorflow,plotly,git,github,arduino&amp;perline=11" alt="Data science and version control" />
+
+### 🛠️ DevOps, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=cisco,kubernetes,jira,docker,notion,postman,powerbi,terraform,trello,uber,riotgames&amp;perline=11" alt="DevOps and tools" />
+
+### 🎮 Game Dev & Engines
+<img src="https://skillicons.dev/icons?i=epicgames,ea,unity,steam&amp;perline=8" alt="Game platforms and engines" />
 
 ### 📊 Project Management & Teamwork
-<img src="https://skillicons.dev/icons?i=figma,notion" alt="PM & Collab" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" />
-<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/Agile-Scrum-FF9900?style=for-the-badge" alt="Agile" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&amp;logo=jira&amp;logoColor=white" height="22" alt="Jira" />
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&amp;logo=microsoft-teams&amp;logoColor=white" height="22" alt="Teams" />
+<img src="https://img.shields.io/badge/Odoo-875A7B?style=flat&amp;logo=odoo&amp;logoColor=white" height="22" alt="Odoo" />
+<img src="https://img.shields.io/badge/Agile-Scrum-FF9900?style=flat" height="22" alt="Agile" />
 
 </div>
 
