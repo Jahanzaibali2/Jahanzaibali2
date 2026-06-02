@@ -321,8 +321,8 @@ Move sequence: `Kill process → Set max_iterations = 5 → Inject system routin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f5ff,50:7b2ff7,100:ff0055&amp;height=150&amp;section=footer&amp;text=I%20optimize%20workflows%2C%20ship%20clean%20code%2C%20and%20deliver%20projects.&amp;fontSize=24&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=70" width="100%" alt="Animated footer" />
 
-![Made out of boredom](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
-![Powered By Agile](https://img.shields.io/badge/Powered%20by-Agile%20Scrum-ff0055?style=for-the-badge)
+![Made out of boredom](https://img.shields.io/badge/Made%20out%20of-Boredom-000000?style=for-the-badge&logo=markdown)
+![Powered By Agile](https://img.shields.io/badge/Powered%20by-Curiosity-ff0055?style=for-the-badge)
 ![Respawn](https://img.shields.io/badge/Respawn%20Point-GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
