@@ -13,16 +13,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake-dark.svg?v=3"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg?v=3"
   />
   <img
     width="900"
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Jahanzaibali2/Jahanzaibali2/output/github-contribution-grid-snake.svg?v=3"
   />
 </picture>
 </div>
@@ -134,12 +134,27 @@ Whether leading agile sprints, optimizing CI/CD, configuring workflows on Notion
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=BATTLE%20STATS&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated stats divider" />
 <div align="center">
-## 📊 Developer Battle Record
-<!-- Replace placeholder paths once your github action has populated your files, or link directly to remote metrics -->
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Jahanzaibali2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaibali2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+## 📊 GitHub Battle Stats
+
+<img width="900" src="profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" />
+
 <br/><br/>
-<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub Streak" />
+
+<img width="420" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages by repo" />
+<img width="420" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" />
+
+<br/><br/>
+
+<img width="420" src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+<img width="420" src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
+
+<br/><br/>
+
+<img width="900" src="https://streak-stats.demolab.com?user=Jahanzaibali2&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Jahanzaibali2&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 </div>
 ---
 ## 🕹️ Role Selection Screen
