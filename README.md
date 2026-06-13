@@ -242,56 +242,14 @@ pie title Current Power Allocation
 | Answer "What is the update on this ticket?" | ⏱️ Constant Cooldown |
 | Touch grass | ❌ Optional DLC |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=90&amp;section=header&amp;text=CRITICAL%20BOSS%20FIGHT&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=blinking" width="100%" alt="Animated boss fight divider" />
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🎮 Mini Game: PM / Dev Boss Fight
 
-<details>
-<summary>🟢 <b>Level 1: Client requests out-of-scope feature 48 hours before deployment.</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:ff0055,50:7b2ff7,100:00f5ff&amp;height=90&amp;section=header&amp;text=LETS%20CONNECT%20HEHE&amp;fontSize=30&amp;fontColor=ffffff&amp;animation=blinking" width="100%" alt="Animated boss fight divider" />
 
-```text
-A) Say "yes" immediately and force devs to work overnight without warning.
-B) Deny it flatly and tell the client to read the contract terms.
-C) Log the change request in Jira, estimate effort, align with the dev lead, and present clear options/impacts to the client.
-```
-
-✅ Correct: **C**  
-Reward: `+15 Client Diplomacy`, `+10 Team Trust`, `Scope Creep debuffed`
-</details>
-
-<details>
-<summary>🟡 <b>Level 2: RHEL production database drops connection inside a high-security network.</b></summary>
-
-```text
-A) Run "rm -rf /" to restart the server filesystem.
-B) Check systemctl service health, grep syslog for permission and memory flags, and review SELinux context.
-C) Blame the database engine.
-```
-
-✅ Correct: **B**  
-Reward: `+20 SysAdmin Sanity`, `Database restored`, `SELinux alignment achieved`
-</details>
-
-<details>
-<summary>🔴 <b>Level 3: Multi-agent AI workflow gets trapped in an expensive recursive tool loop.</b></summary>
-
-```text
-Boss: RecursionWraith
-HP: Infinite (Charging API billing card)
-Weakness: strict token budgets & clear terminal boundaries
-```
-
-Move sequence: `Kill process → Set max_iterations = 5 → Inject system routing checks → Refine tool description parameters → Test locally`
-
-🏆 Victory unlocked: **Budget Preserver**
-</details>
-
----
 
 ## 🏆 Achievements Unlocked
 
